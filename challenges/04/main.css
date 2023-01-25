@@ -13,3 +13,12 @@ div {
   border: 2px solid red;
   text-align: center;
 }
+
+
+main {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  border: 2px solid red;
+  height: 100%;
+}
