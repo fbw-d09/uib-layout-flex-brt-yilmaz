@@ -8,3 +8,11 @@ div {
   border: 2px solid red;
   text-align: center;
 }
+
+main {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
